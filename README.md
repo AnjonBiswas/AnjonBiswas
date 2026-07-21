@@ -2,7 +2,7 @@
 🎓 CSE Undergraduate | 👨🏻‍💻 Web & Mobile App Developer | 🎨 UI/UX Design Enthusiast |💡Always learning and building.
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?logo=googlechrome&logoColor=white)](http://itsanjon.me/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/anjonverse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjonbiswas223/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abanjon123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?logo=googlechrome&logoColor=silver)](http://itsanjon.me/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/anjonverse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjonbiswas223/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abanjon123@gmail.com)
 
 ## 💻 Tech Stack:
 #### Languages & Frameworks
