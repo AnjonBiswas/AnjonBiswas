@@ -40,7 +40,7 @@
     </clipPath>
   </defs>
 
-  <text x="28" y="86" class="title" clip-path="url(#typing-clip)"># Hi there, I'm Anjon Biswas </text>
+  <text x="28" y="86" class="title" clip-path="url(#typing-clip)">Hi there, I'm Anjon Biswas </text>
   <text x="1200" y="86" class="title wave">&#128075;</text>
 
   <rect x="28" y="112" width="0" height="7" rx="3.5" class="accent">
