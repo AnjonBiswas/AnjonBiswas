@@ -1,0 +1,49 @@
+<svg width="1400" height="140" viewBox="0 0 1400 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      font-family: Consolas, Monaco, 'Courier New', monospace;
+      font-size: 76px;
+      font-weight: 700;
+      fill: #f8fafc;
+    }
+    .accent {
+      fill: #38bdf8;
+    }
+    #typing-mask {
+      animation: type 2.4s steps(28, end) forwards;
+    }
+    .wave {
+      opacity: 0;
+      animation: show 0.01s 2.45s forwards, wave 1.1s 2.5s infinite;
+      transform-box: fill-box;
+      transform-origin: 50% 70%;
+    }
+    @keyframes type {
+      from { width: 0; }
+      to { width: 1180px; }
+    }
+    @keyframes show {
+      to { opacity: 1; }
+    }
+    @keyframes wave {
+      0%, 100% { transform: rotate(0deg); }
+      20% { transform: rotate(18deg); }
+      40% { transform: rotate(-12deg); }
+      60% { transform: rotate(18deg); }
+      80% { transform: rotate(-8deg); }
+    }
+  </style>
+
+  <defs>
+    <clipPath id="typing-clip">
+      <rect id="typing-mask" x="28" y="20" width="0" height="90" />
+    </clipPath>
+  </defs>
+
+  <text x="28" y="86" class="title" clip-path="url(#typing-clip)"># Hi there, I'm Anjon Biswas </text>
+  <text x="1200" y="86" class="title wave">&#128075;</text>
+
+  <rect x="28" y="112" width="0" height="7" rx="3.5" class="accent">
+    <animate attributeName="width" from="0" to="470" dur="0.8s" begin="2.35s" fill="freeze" />
+  </rect>
+</svg>

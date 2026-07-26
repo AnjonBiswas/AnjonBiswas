@@ -1,0 +1,70 @@
+<svg width="390" height="195" viewBox="0 0 390 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="389" height="194" rx="10" fill="#1a1b27" stroke="#c9d1d9"/>
+  <style>
+    .title {
+      font-family: Inter, Segoe UI, Arial, sans-serif;
+      font-size: 21px;
+      font-weight: 700;
+      fill: #70a5fd;
+    }
+    .caption {
+      font-family: Inter, Segoe UI, Arial, sans-serif;
+      font-size: 12px;
+      fill: #a9b1d6;
+    }
+    .label {
+      font-family: Inter, Segoe UI, Arial, sans-serif;
+      font-size: 12px;
+      font-weight: 700;
+      fill: #f8fafc;
+    }
+    .muted {
+      font-family: Inter, Segoe UI, Arial, sans-serif;
+      font-size: 10.5px;
+      fill: #a9b1d6;
+    }
+    .ring {
+      stroke: #343b55;
+      stroke-width: 1;
+    }
+  </style>
+
+  <text x="22" y="34" class="title">Tech Radar</text>
+  <text x="22" y="54" class="caption">Currently exploring and improving</text>
+
+  <g transform="translate(24 69)">
+    <circle cx="60" cy="60" r="56" class="ring"/>
+    <circle cx="60" cy="60" r="38" class="ring"/>
+    <circle cx="60" cy="60" r="20" class="ring"/>
+    <path d="M60 4V116M4 60H116" stroke="#343b55" stroke-width="1"/>
+    <path d="M60 8L94 52L72 89L30 70Z" fill="#f472b6" opacity="0.16" stroke="#f472b6" stroke-width="2.5"/>
+
+    <circle cx="60" cy="8" r="10" fill="#f472b6"/>
+    <circle cx="94" cy="52" r="6" fill="#70a5fd"/>
+    <circle cx="72" cy="89" r="6" fill="#38bdae"/>
+    <circle cx="30" cy="70" r="6" fill="#f9e64f"/>
+
+    <text x="44" y="-3" class="label">UI/UX</text>
+  </g>
+
+  <g transform="translate(170 76)">
+    <rect width="190" height="42" rx="9" fill="#24283b"/>
+    <circle cx="20" cy="21" r="10" fill="#f472b6"/>
+    <text x="38" y="19" class="label">UI/UX</text>
+    <text x="38" y="34" class="muted">top focus for product polish</text>
+  </g>
+
+  <g transform="translate(170 127)">
+    <rect width="88" height="24" rx="12" fill="#24283b"/>
+    <circle cx="14" cy="12" r="5" fill="#70a5fd"/>
+    <text x="26" y="16" class="muted">AI Tools</text>
+
+    <rect x="98" width="92" height="24" rx="12" fill="#24283b"/>
+    <circle cx="112" cy="12" r="5" fill="#f9e64f"/>
+    <text x="124" y="16" class="muted">API Work</text>
+
+    <rect y="32" width="120" height="24" rx="12" fill="#24283b"/>
+    <circle cx="14" cy="44" r="5" fill="#38bdae"/>
+    <text x="26" y="48" class="muted">Performance</text>
+  </g>
+</svg>
