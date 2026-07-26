@@ -64,6 +64,6 @@
 
 ## 📊 GitHub Stats
 <p>
-  <img height="195" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnjonBiswas&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <img height="195" src="./assets/currently-exploring.svg" alt="Currently Exploring: UI/UX, AI Tools, API Integration, Performance" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnjonBiswas&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img height="165" src="./assets/currently-exploring.svg" alt="Currently Exploring: UI/UX, AI Tools, API Integration, Performance" />
 </p>
