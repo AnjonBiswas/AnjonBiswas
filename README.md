@@ -1,8 +1,8 @@
 <p>
-  <img width="100%" src="./assets/animated-header.svg" alt="# Hi there, I'm Anjon Biswas waving hello" />
+  <img width="80%" src="./assets/animated-header.svg" alt="Hi there, I'm Anjon Biswas waving hello" />
 </p>
 
-<h3>CSE Undergraduate | Full Stack Developer | UI/UX Design Enthusiast | Always learning and building.</h3>
+<h4>🎓 CSE Undergraduate | 🧑‍💻 Full Stack Developer | 🎨 UI/UX Design Enthusiast | 💡 Always learning and building.</h4>
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?logo=googlechrome&logoColor=silver)](http://itsanjon.me/)
@@ -10,7 +10,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjonbiswas223/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abanjon123@gmail.com)
 
-## Tech Stack
+<h2>
+  <img src="./assets/tech-stack-icon.svg" width="27" align="center" alt="Tech Stack" />
+  Tech Stack
+</h2>
 
 <table>
   <tr>
