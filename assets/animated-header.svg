@@ -7,7 +7,7 @@
       fill: #f8fafc;
     }
     .accent {
-      fill: #38bdf8;
+      fill: #1ab5f8;
     }
     #typing-mask {
       animation: type 2.4s steps(28, end) forwards;
@@ -44,6 +44,6 @@
   <text x="1200" y="86" class="title wave">&#128075;</text>
 
   <rect x="28" y="112" width="0" height="7" rx="3.5" class="accent">
-    <animate attributeName="width" from="0" to="470" dur="0.8s" begin="2.35s" fill="freeze" />
+    <animate attributeName="width" from="0" to="1080" dur="0.8s" begin="2.35s" fill="freeze" />
   </rect>
 </svg>
