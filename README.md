@@ -1,5 +1,5 @@
 <p>
-  <img width="80%" src="./assets/animated-header.svg" alt="# Hi there, I'm Anjon Biswas waving hello" />
+  <img width="100%" src="./assets/animated-header.svg" alt="# Hi there, I'm Anjon Biswas waving hello" />
 </p>
 
 <h4>🎓 CSE Undergraduate | 🧑‍💻 Full Stack Developer | 🎨 UI/UX Design Enthusiast | 💡 Always learning and building.</h4>
