@@ -58,7 +58,7 @@
 
       <path d="M59 10L85 41L68 68L36 57Z" fill="url(#radarFill)" stroke="#f472b6" stroke-width="2" stroke-linejoin="round"/>
 
-      <circle cx="59" cy="10" r="7.5" fill="#f472b6"/>
+      <circle cx="59" cy="10" r="5.5" fill="#f472b6"/>
       <circle cx="85" cy="41" r="5.5" fill="#70a5fd"/>
       <circle cx="68" cy="68" r="5" fill="#38bdae"/>
       <circle cx="36" cy="57" r="5" fill="#f1e05a"/>
