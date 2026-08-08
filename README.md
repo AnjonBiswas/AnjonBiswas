@@ -35,12 +35,12 @@
       <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />&nbsp;
       <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" />&nbsp;
       <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />&nbsp;
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />&nbsp;
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
       <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" />&nbsp;
       <img src="https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white" alt="NodeJS" />&nbsp;
       <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" />&nbsp;
-      <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" />&nbsp;
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot" />&nbsp;
+      <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native"/>&nbsp;
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" />&nbsp;
