@@ -4,7 +4,7 @@
       font-family: Consolas, Monaco, 'Courier New', monospace;
       font-size: 76px;
       font-weight: 700;
-      fill: #b6cade;
+      fill: #8facc9;
     }
     .accent {
       fill: #1ab5f8;
